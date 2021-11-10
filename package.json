@@ -1,0 +1,19 @@
+{
+  "name": "maxbot-git",
+  "version": "1.0.0",
+  "description": "A Maxbot project package extension on git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OMEGAeNcore/maxbot-git.git"
+  },
+  "author": "Tron - OMEGAeNcore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OMEGAeNcore/maxbot-git/issues"
+  },
+  "homepage": "https://github.com/OMEGAeNcore/maxbot-git#readme"
+}
